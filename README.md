@@ -1,5 +1,5 @@
-# vr2ual-video
-vr2ual-video
+# vr2ual-visual
+vr2ual-visual
 
 ## Sections
 - Photos
